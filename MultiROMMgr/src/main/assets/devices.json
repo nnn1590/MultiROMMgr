@@ -158,7 +158,7 @@
             "check_gpg": false,
             "ubuntu_touch": {
                 "enabled": true,
-                "base_url": "http://system-image.ubports.com",
+                "base_url": "https://system-image.ubports.com",
                 "device": "bacon"
             },
             "devices": [
